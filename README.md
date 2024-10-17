@@ -1,3 +1,3 @@
 <div align="center">
-WORK IN PROGRESS
+<h1>WORK IN PROGRESS</h1>
 </div>
