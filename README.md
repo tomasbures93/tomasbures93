@@ -14,4 +14,3 @@ Coming soon.
 <h2>:computer: Tools and Languages</h2>
 Coming soon.
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbures93&layout=compact)
