@@ -6,7 +6,7 @@
 :bulb:  I like to workout, read motivation books and learn new skills.
 <br />
 <h2>:computer: Tools and Languages</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <br/>
 <h2>:notebook: Current Projects</h2>
 Comming soon.
