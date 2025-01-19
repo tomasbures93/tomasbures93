@@ -7,7 +7,7 @@
 <br />
 <h2>:computer: Tools and Languages</h2>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,mysql,azure,github,visualstudio,vscode,ps,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,mysql,azure,github,visualstudio,vscode,linux" />
   </a>
 <br/>
 <h2>:notebook: Current Projects</h2>
