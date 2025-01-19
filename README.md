@@ -5,12 +5,13 @@
 :email: You can Contact me via Email: <a href="mailto:burestomas93@gmail.com">burestomas93@gmail.com</a><br />
 :bulb:  I like to workout, read motivation books and learn new skills.
 <br />
+<h2>:computer: Tools and Languages</h2>
+Coming soon.
+<br/>
 <h2>:notebook: Current Projects</h2>
 Comming soon.
 <br />
 <h2>:pushpin: Connect with me</h2>
 Coming soon.
 <br />
-<h2>:computer: Tools and Languages</h2>
-Coming soon.
-<br/>
+
