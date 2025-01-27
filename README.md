@@ -12,7 +12,7 @@
 <br/>
 <h2>:notebook: Current Projects</h2>
 - Personal Portfolio - <b>50%</b> <br />
-- Healthy App - <b>32%</b>
+- Weight and BMI Tracker - <b>32%</b>
 <br />
 <h2>:pushpin: Connect with me</h2>
 <a href="https://www.linkedin.com/in/tomas-bures-11b836338">
