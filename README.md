@@ -11,6 +11,7 @@
   </a>
 <br/>
 <h2>:notebook: Current Projects</h2>
+- WORDLE - <b>90%</b> <br />
 - Personal Portfolio - <b>55%</b> <br />
 - Weight and BMI Tracker - <b>59%</b>
 <br />
