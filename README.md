@@ -11,7 +11,7 @@
   </a>
 <br/>
 <h2>:notebook: Current Projects</h2>
-- ApplyLog - <b>40%</b>
+- ApplyLog - <b>80%</b>
 <br />
 <h2>:pushpin: Connect with me</h2>
 <a href="https://www.linkedin.com/in/tomas-bures-11b836338">
