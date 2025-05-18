@@ -7,11 +7,11 @@
 <br />
 <h2>:computer: Tools and Languages</h2>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,azure,github,visualstudio,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,sqlite,azure,github,visualstudio,vscode,linux" />
   </a>
 <br/>
 <h2>:notebook: Current Projects</h2>
-- ApplyLog v2 - <b>Planning</b>
+- ApplyLog v2 - <b>10%</b>
 <br />
 <h2>:pushpin: Connect with me</h2>
 <a href="https://www.linkedin.com/in/tomas-bures-11b836338">
