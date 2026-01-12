@@ -1,13 +1,10 @@
 <h1>:wave: Hi there, I am Tomas Bures </h1>
 :briefcase: I am <b>Software Developer</b> from Germany.<br />
-:open_book: I am currently working with <b>C# , .NET Framework</b><br />
 :email: You can Contact me via Email: <a href="mailto:burestomas93@gmail.com">burestomas93@gmail.com</a><br />
 :bulb:  I like to workout, read motivation books and learn new skills.
 <br />
 <h2>:computer: Tools and Languages</h2>
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,mysql,sqlite,docker,azure,github,visualstudio,vscode,postman,linux" />
-  </a>
+<a href="https://i.icoziv.workers.dev" title="Open Icoziv"><img src="https://i.icoziv.workers.dev/icons?i=angularjs-dark,azure-dark,azuresqldatabase-dark,bootstrap,cs,css,docker,dotnet,git-dark,github-dark,grafana-dark,graphql-dark,grpc,html,javascript,mongodb,mysql-dark,postgresql-dark,postman,prometheus,rabbitmq-dark,reactjs-dark,rest,sqlite,swagger-dark,typescript,visualstudio-dark,visualstudiocode-dark,vuejs-dark" alt="Icoziv-icons"></a>
 <br />
 <h2>:pushpin: Connect with me</h2>
 <a href="https://www.linkedin.com/in/tomas-bures-11b836338">
